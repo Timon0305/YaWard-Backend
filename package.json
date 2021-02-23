@@ -1,0 +1,41 @@
+{
+  "name": "yaward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-pino-logger": "^5.0.0",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.6.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
+    "messagebird": "^3.5.0",
+    "mongoose": "^5.9.20",
+    "multer": "^1.4.2",
+    "nexmo": "^2.8.0",
+    "nodemon": "^2.0.4",
+    "nstore": "^0.5.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "speakeasy": "^2.0.0"
+  },
+  "devDependencies": {
+    "twilio": "^3.48.1"
+  }
+}

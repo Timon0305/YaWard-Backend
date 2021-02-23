@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8347c8ff-c28b-4f34-bd79-f574d45a9243" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1646658928">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/admin/adminController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/admin/occasionController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/customer/checkoutController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/passport.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/keys.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/keys.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectId" id="1jnAYwptNFyXR1jJyhySfrDV9s6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="4.backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4.backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4.backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4.backend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4.backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4.backend" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4.backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4.backend" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3.customer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2.7\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8347c8ff-c28b-4f34-bd79-f574d45a9243" name="Default Changelist" comment="" />
+      <created>1593136448839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593136448839</updated>
+      <workItem from="1593136450056" duration="20118000" />
+      <workItem from="1593168205264" duration="8362000" />
+      <workItem from="1593184617444" duration="12215000" />
+      <workItem from="1593334320320" duration="7658000" />
+      <workItem from="1593795154807" duration="2076000" />
+      <workItem from="1593915113822" duration="3106000" />
+      <workItem from="1593938831815" duration="5463000" />
+      <workItem from="1593968223574" duration="21729000" />
+      <workItem from="1594044306635" duration="14829000" />
+      <workItem from="1594125029674" duration="44000" />
+      <workItem from="1594590896948" duration="8866000" />
+      <workItem from="1594635792696" duration="24991000" />
+      <workItem from="1594718168473" duration="35217000" />
+      <workItem from="1594817890871" duration="11037000" />
+      <workItem from="1594883244818" duration="1798000" />
+      <workItem from="1595052499469" duration="649000" />
+      <workItem from="1595074478940" duration="14937000" />
+      <workItem from="1595171834290" duration="1280000" />
+      <workItem from="1595198324548" duration="48667000" />
+      <workItem from="1595379477605" duration="4449000" />
+      <workItem from="1595412417300" duration="424000" />
+      <workItem from="1595520474867" duration="9766000" />
+      <workItem from="1595577066129" duration="20142000" />
+      <workItem from="1595642573164" duration="8317000" />
+      <workItem from="1595665701383" duration="5565000" />
+      <workItem from="1595879959391" duration="16240000" />
+      <workItem from="1596016936967" duration="3466000" />
+      <workItem from="1596423727522" duration="616000" />
+      <workItem from="1596581196862" duration="4538000" />
+      <workItem from="1596642077882" duration="1801000" />
+      <workItem from="1596664958329" duration="2930000" />
+      <workItem from="1596681459755" duration="268000" />
+      <workItem from="1596734042043" duration="17036000" />
+      <workItem from="1596813145326" duration="2176000" />
+      <workItem from="1596824327864" duration="14184000" />
+      <workItem from="1596895964117" duration="5603000" />
+      <workItem from="1597001069270" duration="618000" />
+      <workItem from="1597059699287" duration="764000" />
+      <workItem from="1597063028328" duration="3000" />
+      <workItem from="1597063697328" duration="11249000" />
+      <workItem from="1597152283983" duration="9586000" />
+      <workItem from="1597193908591" duration="1000" />
+      <workItem from="1597240545962" duration="7809000" />
+      <workItem from="1597251265700" duration="31385000" />
+      <workItem from="1597319393476" duration="5759000" />
+      <workItem from="1597446550170" duration="712000" />
+      <workItem from="1597518742871" duration="11203000" />
+      <workItem from="1597585760286" duration="8657000" />
+      <workItem from="1597629600775" duration="1841000" />
+      <workItem from="1597657355178" duration="4568000" />
+      <workItem from="1597706898597" duration="1024000" />
+      <workItem from="1597749215796" duration="30140000" />
+      <workItem from="1597837745254" duration="4913000" />
+      <workItem from="1597912658295" duration="11604000" />
+      <workItem from="1597967629774" duration="3145000" />
+      <workItem from="1598010835965" duration="7960000" />
+      <workItem from="1598032139887" duration="6932000" />
+      <workItem from="1598053205594" duration="4230000" />
+      <workItem from="1598089482126" duration="10010000" />
+      <workItem from="1598142667099" duration="604000" />
+      <workItem from="1598145846241" duration="802000" />
+      <workItem from="1598212829092" duration="26617000" />
+      <workItem from="1598312720178" duration="659000" />
+      <workItem from="1598351527981" duration="3850000" />
+      <workItem from="1598438314331" duration="3009000" />
+      <workItem from="1598486181950" duration="43000" />
+      <workItem from="1598488741126" duration="1760000" />
+      <workItem from="1598524526384" duration="651000" />
+      <workItem from="1598540360776" duration="587000" />
+      <workItem from="1598676959146" duration="1618000" />
+      <workItem from="1598697961860" duration="1207000" />
+      <workItem from="1598726379010" duration="603000" />
+      <workItem from="1598785086214" duration="10922000" />
+      <workItem from="1598871938948" duration="635000" />
+      <workItem from="1598961385770" duration="7856000" />
+      <workItem from="1599063017921" duration="14000" />
+      <workItem from="1599143606334" duration="3788000" />
+      <workItem from="1599219081282" duration="3480000" />
+      <workItem from="1599317826896" duration="1960000" />
+      <workItem from="1599350859910" duration="613000" />
+      <workItem from="1599478903932" duration="2737000" />
+      <workItem from="1599564430887" duration="2659000" />
+      <workItem from="1599690449173" duration="1722000" />
+      <workItem from="1599751628678" duration="642000" />
+      <workItem from="1599848593894" duration="13000" />
+      <workItem from="1600050315414" duration="385000" />
+      <workItem from="1600135055884" duration="11000" />
+      <workItem from="1601781661394" duration="695000" />
+      <workItem from="1602176038574" duration="8930000" />
+      <workItem from="1604429534734" duration="102000" />
+      <workItem from="1607351561088" duration="2328000" />
+      <workItem from="1613981891603" duration="1196000" />
+      <workItem from="1614058402835" duration="2126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5650000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295063" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="193" width="710" height="664" key="find.popup" timestamp="1604429624255">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="605" y="193" width="710" height="664" key="find.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1604429624255" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/admin/adminController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/admin/occasionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/customer/checkoutController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/passport.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/keys.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
